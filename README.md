@@ -1,4 +1,3 @@
-CODECRAFT – Cybersecurity Task 3
 
 Project Title: Password Strength Checker
 
